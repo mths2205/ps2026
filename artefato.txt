@@ -1,0 +1,1 @@
+Este arquivo demonstra o controle de artefatos utilizando git e github
